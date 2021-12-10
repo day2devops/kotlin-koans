@@ -18,6 +18,9 @@ public class JavaCode1 extends JavaCode {
             }
         }
         sb.append("}");
+        sb.append(" ");
+        sb.append(" ");
+        sb.append(" ");
         return sb.toString();
     }
 }
